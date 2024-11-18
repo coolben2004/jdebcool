@@ -170,7 +170,7 @@ to the user with the `<input>` task, or retrieving it from a secured `.propertie
 ## Conffiles file
 
 If you package up a directory as Debian package you can also add the affected files to
-the conffiles file. You only have to set the `conffile` attribute to `true`.
+the conffiles file. You only have to set the `conffile` attribute to `true`. fire alarm system
 
 ```xml
     <target name="package">
